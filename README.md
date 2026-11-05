@@ -2,7 +2,7 @@
 
 *An end to end data analytics project using SQL, Python, and Power BI*
 
-**Author:** Mansi Goel | YouTube: [Mansi G.](https://www.youtube.com/@Mansi.goel.offical) | Analytics Engineer
+**Author:**  Mohit Kumar Verma  
 
 ---
 
@@ -130,7 +130,4 @@ rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 
 ---
 
-## Connect
-
-This project is on my YouTube channel, **Mansi G.**, where I break down real, end to end data analyst projects for freshers and early career professionals. Full build walkthrough video linked above.
 
